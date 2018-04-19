@@ -10,4 +10,5 @@ This program applies Goldbach's weak conjecture to numbers and shows which 3 pri
 The program should emit three prime numbers (remember, one may be used multiple times) to yield the target sum. Example:
 
 11 = 3 + 3 + 5
+
 35 = 19 + 13 + 3
